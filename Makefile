@@ -8,10 +8,7 @@ src/strcomp.c\
 src/strconcat.c\
 src/strcopy.c\
 src/strlen.c\
-src/test.c\
 src/vsum.c\
-
-
 test.c
 
 INC= -Iinc
